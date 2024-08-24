@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tictactoe-app/static/css/main.fd398bff.css",
-    "main.js": "/react-tictactoe-app/static/js/main.4e80c6db.js",
-    "static/js/453.ad0e490e.chunk.js": "/react-tictactoe-app/static/js/453.ad0e490e.chunk.js",
-    "index.html": "/react-tictactoe-app/index.html",
-    "main.fd398bff.css.map": "/react-tictactoe-app/static/css/main.fd398bff.css.map",
-    "main.4e80c6db.js.map": "/react-tictactoe-app/static/js/main.4e80c6db.js.map",
-    "453.ad0e490e.chunk.js.map": "/react-tictactoe-app/static/js/453.ad0e490e.chunk.js.map"
+    "main.css": "/dndjd03_study/static/css/main.fd398bff.css",
+    "main.js": "/dndjd03_study/static/js/main.aeec4a9b.js",
+    "static/js/453.ad0e490e.chunk.js": "/dndjd03_study/static/js/453.ad0e490e.chunk.js",
+    "index.html": "/dndjd03_study/index.html",
+    "main.fd398bff.css.map": "/dndjd03_study/static/css/main.fd398bff.css.map",
+    "main.aeec4a9b.js.map": "/dndjd03_study/static/js/main.aeec4a9b.js.map",
+    "453.ad0e490e.chunk.js.map": "/dndjd03_study/static/js/453.ad0e490e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd398bff.css",
-    "static/js/main.4e80c6db.js"
+    "static/js/main.aeec4a9b.js"
   ]
 }
